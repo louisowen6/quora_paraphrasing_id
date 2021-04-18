@@ -10,6 +10,6 @@ Examples
 ```
 {"question_1": "Apa beberapa teknik yoga yang baik untuk menurunkan berat badan?", "question_2": "Apa asana yoga untuk menurunkan berat badan?"}
 {"question_1": "Bagaimana musik memicu emosi?", "question_2": "Mengapa musik bertanggung jawab untuk memicu emosi?"}
-{"question_1": "Apa beberapa contoh bagaimana data dan informasi berbeda?", "question_2": "Apa perbedaan antara data dan informasi dengan contoh?"}
+{"question_1": "Bagaimana cara meretas ke Facebook seseorang?", "question_2": "Bagaimana kita bisa meretas FB?"}
 ```
 
